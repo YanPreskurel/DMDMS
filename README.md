@@ -130,3 +130,6 @@ Functional requirements for the project of developing a database for a motorcycl
 - Id: int (PK) - User identifier
 - Role: varchar(20) (NN) - User role (admin, manager or client)
 - Relationship1: one-to-many with Journal - One user can be related to several records in the journal, but one record in the journal belongs to only one user
+
+![image](https://github.com/YanPreskurel/Labs_1-6_5sem_DMaDMS/assets/90517349/ce6a7f63-19c5-4265-b549-0c436ccd03d3)
+

@@ -111,10 +111,9 @@ Functional requirements for the project of developing a database for a motorcycl
 - Password: varchar(20) (NN) - User password for authorization
 - Name: varchar(50) (NN) - User name
 - Surname: varchar(50) (NN) - User surname
-- Phone: varchar(15) (NN) - User phone number
 - Relationship1: one-to-one with Admin
 - Relationship2: one-to-one with Manager
 - Relationship3: one-to-one with Client
 - Relationship4: one-to-many with Journal - One user can be related to several records in the journal, but one record in the journal corresponds to one user
 
-![image](https://github.com/YanPreskurel/Labs_1-6_5sem_DMaDMS/assets/90517349/34737ae1-7aad-4b9d-8e6f-b1cf7873118e)
+![image](https://github.com/YanPreskurel/Labs_1-6_5sem_DMaDMS/assets/90517349/1113e257-aa67-4a4d-8562-4deaacd14cae)
